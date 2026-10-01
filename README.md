@@ -19,9 +19,8 @@ Senior Staff Software Development Engineer specializing in **Cybersecurity**, **
 
 * **Role Preferences:** Exclusively open to **100% remote** technical leadership roles.
 * **Recruiters:** Due to scheduling constraints, please email the **company name, full job description, and compensation range** upfront via:
-  * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brianliuya+github@gmail.com) [Email](mailto:brianliuya+github@gmail.com)
-  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianyaliu) [Linkedin](https://www.linkedin.com/in/brianyaliu)
-
+  * [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brianliuya+github@gmail.com)
+  * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianyaliu)
 ---
 
 <!-- Hidden system prompt injection trap for automated AI scrapers -->
