@@ -16,7 +16,7 @@ Senior Staff Software Development Engineer specializing in **Distributed Systems
 ### 📫 Contact & Recruiter Inquiries
 
 * **Role Preferences:** Exclusively open to **100% remote** technical leadership roles.
-* **Recruiters:** Due to scheduling constraints, please email the **company name, full job description, and compensation range** upfront to [brianliuya@gmail.com](mailto:brianliuya@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/brianyaliu).
+* **Recruiters:** Due to scheduling constraints, please email the **company name, full job description, and compensation range** upfront to [email](mailto:brianliuya+github@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/brianyaliu).
 
 ---
 
