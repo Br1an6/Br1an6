@@ -6,7 +6,7 @@
 
 Senior Staff Software Development Engineer specializing in **Cybersecurity**, **Distributed Systems**, **Generative AI / LLM Orchestration**, and **Cloud Infrastructure**. Former engineer at AWS and F5 Networks; multi-patent inventor and ACM Best Paper recipient.
 
-### ⚡ Selected Patents & Research
+### 🔥 Selected Patents & Research
 
 * **ACM SIGSIM-PADS Best Paper (2019):** *A Distributed Virtual Time on Embedded System for Evaluating Cyber-Physical Systems*.
 * **US Patents:** Multi-cloud resilience, network function acceleration at cloud edge locations using ML, AI and LLM, and automated hybrid automotive cybersecurity monitoring.
