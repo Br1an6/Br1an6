@@ -26,13 +26,13 @@ Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Dist
 
 ### 🗂️️ Projects
 
-#### 🏢 Enterprise & Distributed Systems
+#### 🏢 Enterprise
 
 * **Cloud Security & Zero Trust & Gen AI:** Zscaler Internet Access (ZIA) · Zscaler CTEM · Amazon Q · AWS Shield
 * **Edge & Telco Infrastructure & Networking:** AWS Virtual Private Cloud (VPC) · AWS Private 5G (P5G) · AWS Telco Network Builder (TNB) · F5 BIG-IP
 * **Distributed Cloud Storage:** Amazon Aurora
 
-#### 🧪 Open Source & Applied Systems
+#### 🧪 Open Source
 
 <p align="center">
    <a href="https://github.com/Br1an6/Bore-Sight">
