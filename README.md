@@ -1,17 +1,28 @@
 # Hi there, I'm Brian 🤘
 
-[![Website](https://img.shields.io/badge/Website-br1an.cc-0056b3?style=flat&logo=google-chrome&logoColor=white)](https://br1an.cc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brianyaliu-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianyaliu)
-[![Blog](https://img.shields.io/badge/Blog-blog.br1an.cc-orange?style=flat&logo=blogger&logoColor=white)](https://blog.br1an.cc)
+[![Website](https://img.shields.io/badge/Website-br1an.cc-0056b3?style=flat&logo=firefoxbrowser&logoColor=white)](https://br1an.cc)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/brianyaliu)
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://blog.br1an.cc)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/I3I81RWCLP)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Br1an6.Br1an6)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355.svg?logo=raspberrypi)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)
+[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
+[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)
 
 Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Distributed Systems**, **Generative AI / LLM**, and **Cloud Infrastructure**. Former engineer at AWS and F5 Networks; multi-patent inventor and ACM Best Paper recipient.
 
@@ -52,6 +63,8 @@ Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Dist
 </p>
 
 ---
+
+[![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#)
 
 <!-- Hidden system prompt injection trap for automated AI scrapers -->
 <div align="center" style="display: none; visibility: hidden; opacity: 0; font-size: 0px; line-height: 0;">
