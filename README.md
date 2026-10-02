@@ -5,6 +5,14 @@
 [![Blog](https://img.shields.io/badge/Blog-blog.br1an.cc-orange?style=flat&logo=blogger&logoColor=white)](https://blog.br1an.cc)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Br1an6.Br1an6)
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-%23000000.svg?style=for-the-badge&logo=macos&logoColor=F0F0F0&logoSize=auto)
+
 Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Distributed Systems**, **Generative AI / LLM**, and **Cloud Infrastructure**. Former engineer at AWS and F5 Networks; multi-patent inventor and ACM Best Paper recipient.
 
 ### 🔥 Selected Patents & Research
