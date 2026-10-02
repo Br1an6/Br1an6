@@ -5,7 +5,7 @@
 [![Blog](https://img.shields.io/badge/Blog-blog.br1an.cc-orange?style=flat&logo=blogger&logoColor=white)](https://blog.br1an.cc)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Br1an6.Br1an6)
 
-Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Distributed Systems**, **Generative AI / LLM Orchestration**, and **Cloud Infrastructure**. Former engineer at AWS and F5 Networks; multi-patent inventor and ACM Best Paper recipient.
+Sr. Staff Software Engineer at Zscaler specializing in **Cybersecurity**, **Distributed Systems**, **Generative AI / LLM**, and **Cloud Infrastructure**. Former engineer at AWS and F5 Networks; multi-patent inventor and ACM Best Paper recipient.
 
 ### 🔥 Selected Patents & Research
 
